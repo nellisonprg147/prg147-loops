@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.body{
+    background-color: indigo;
+    text-align: center;
+}
+
+.container{
+    color: aqua;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+.h1{
+    font-family:sans-serif;
+    font-size: 100%;
+}
+
+.footer {
+    background-color: white;
+    text-align: center;
+    min-height: 50px;
+    padding: 20px;
+    font-size: 1em;
+    margin: auto;
+
+}
